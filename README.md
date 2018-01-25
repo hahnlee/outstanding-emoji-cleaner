@@ -1,5 +1,7 @@
 # Outstanding Emoji Cleaner
-[크롬 스토어](https://chrome.google.com/webstore/detail/outstanding-emoji-cleaner/eeepemnbpeiecplbggenbakgfhekljeo)
+[크롬 스토어](https://chrome.google.com/webstore/detail/outstanding-emoji-cleaner/eeepemnbpeiecplbggenbakgfhekljeo), 
+[파이어 폭스 애드온](https://addons.mozilla.org/ko/firefox/addon/outstanding-emoji-cleaner/)
+
 아웃스탠딩 기사에 보이는 **이모티콘 이미지만** 제거하는 크롬 확장자 입니다.
 
 # TODO
